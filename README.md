@@ -18,6 +18,8 @@ In your Peco config:
 theme: tom
 ```
 
+__👉 Preview the theme online: https://peco-theme-tom.netlify.com/__
+
 ## Recommended config
 
 ```yaml
