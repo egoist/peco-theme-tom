@@ -2,6 +2,7 @@ title: Tom Preston-Werner
 description: A Peco theme
 email: 0x142857@gmail.com
 feed: true
+url: https://peco-theme-tom.netlify.com
 theme: ../
 themeConfig:
   twitter: _egoistlily

@@ -26,6 +26,7 @@ description: Describe your site
 email: email@you.com
 # Generate RSS feed
 feed: true
+url: https://your-website.com
 
 themeConfig:
   github: username
