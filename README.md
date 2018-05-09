@@ -30,6 +30,7 @@ email: email@you.com
 feed: true
 url: https://your-website.com
 
+theme: tom
 themeConfig:
   github: username
   twitter: username
