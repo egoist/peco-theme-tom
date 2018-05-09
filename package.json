@@ -1,0 +1,32 @@
+{
+  "name": "peco-theme-tom",
+  "version": "0.0.0",
+  "author": {
+    "name": "EGOIST",
+    "email": "0x142857@gmail.com"
+  },
+  "files": [
+    "layouts",
+    "components",
+    "styles",
+    "index.js"
+  ],
+  "scripts": {
+    "build": "peco build example",
+    "dev": "peco dev example"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.2"
+  },
+  "devDependencies": {
+    "peco": "^0.1.4",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.2"
+  },
+  "dependencies": {
+    "date-fns": "^1.29.0",
+    "nprogress": "^0.2.0"
+  }
+}

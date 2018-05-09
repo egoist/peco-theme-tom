@@ -1,0 +1,13 @@
+title: Tom Preston-Werner
+description: A Peco theme
+email: 0x142857@gmail.com
+feed: true
+theme: ../
+themeConfig:
+  twitter: _egoistlily
+  github: egoist
+  nav:
+    - title: Home
+      link: /
+    - title: Peco
+      link: https://github.com/egojump/peco
