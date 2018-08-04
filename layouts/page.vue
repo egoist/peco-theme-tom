@@ -9,8 +9,7 @@
         </span>
       </div>
       <div class="page-body">
-        <slot name="body" v-if="page.attributes.compileTemplate"></slot>
-        <div v-else class="markdown-body" v-html="page.body"></div>
+        <slot name="body"></slot>
       </div>
     </div>
     <Footer />
