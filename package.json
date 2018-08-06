@@ -21,7 +21,7 @@
     "stylus-loader": "^3.0.2"
   },
   "devDependencies": {
-    "peco": "^0.1.4",
+    "peco": "^0.2.2",
     "stylus": "^0.54.5",
     "stylus-loader": "^3.0.2"
   },
